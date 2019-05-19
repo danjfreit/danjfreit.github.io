@@ -7,6 +7,7 @@ SITENAME = u'Danny Freitas'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'theme'
 
 TIMEZONE = 'America/Chicago'
 
