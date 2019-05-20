@@ -4,6 +4,10 @@ body {
   background-color: #2e2b25;
 }
 
+body:link {
+  color: inherit;
+}
+
 h1,
 h2,
 h3,
