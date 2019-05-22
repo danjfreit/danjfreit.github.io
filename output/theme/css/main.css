@@ -29,3 +29,18 @@ h6 {
 footer {
   color: var(--bark-light);
 }
+
+.menu {
+  display: flex;
+  align-content: center;
+  height: 3em;
+}
+
+.navlink {
+  justify-self: left;
+  margin: 0.5em;
+}
+
+.navlink__content {
+  height: 1.75em;
+}
